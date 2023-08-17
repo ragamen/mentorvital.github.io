@@ -63884,7 +63884,7 @@ A.Dt.prototype={
 P(a){return new A.tF(B.yA,"Frases Aleatorias",A.af2(null,B.fP,null),null)}}
 A.t2.prototype={
 av(){var s,r=t.s,q=A.a(["Amor","AutoAyuda","Motivaci\xf3n","Salmos","Autoestima","Autoestima para una amiga","Autoestima para un ni\xf1o","Buenos Dias"],r)
-r=A.a(["assets/song3.mp3","assets/song4.mp3","assets/song5.mp3","assets/song6.mp3","assets/song7.mp3","assets/song8.mp3","assets/song9.mp3","assets/song10.mp3","assets/song11.mp3","assets/song12.mp3","assets/song13.mp3","assets/song14.mp3","assets/song15.mp3"],r)
+r=A.a(["assets/assets/song3.mp3","assets/assets/song4.mp3","assets/assets/song5.mp3","assets/assets/song6.mp3","assets/assets/song7.mp3","assets/assets/song8.mp3","assets/assets/song9.mp3","assets/assets/song10.mp3","assets/assets/song11.mp3","assets/assets/song12.mp3","assets/assets/song13.mp3","assets/assets/song14.mp3","assets/assets/song15.mp3"],r)
 s=new A.C5()
 B.bl.jA(s.ga4j())
 return new A.wS(q,r,s,A.akC(),A.a([],t.jh),B.j)}}
